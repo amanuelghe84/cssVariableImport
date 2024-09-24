@@ -1,0 +1,16 @@
+@import url(variables.css);
+
+body{
+    background-color: var(--main-bg-color);
+    color: var(--main-text-color);
+}
+
+p{
+    width: var(--width-heading-size);
+    font-size: var(--heading-font-size);
+}
+
+h{
+    font-size: var(--heading-font-size);
+    margin-bottom: 10px;
+}
